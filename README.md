@@ -21,7 +21,7 @@ Win conditions: The game recognizes traditional win conditions (three in a row) 
 
 
 
-💻 Technologies Used
+## 💻 Technologies Used
 
  Python: The game is developed in Python programming language.
 
@@ -33,7 +33,7 @@ Win conditions: The game recognizes traditional win conditions (three in a row) 
 
 
 
-👩🏾‍💻 Installation
+## 👩🏾‍💻 Installation
 
 1. Clone the repository: git clone https://github.com/your-username/quantum-tic-tac-toe.git
 2. Install the required dependencies: pip install -r requirements.txt
@@ -41,7 +41,7 @@ Win conditions: The game recognizes traditional win conditions (three in a row) 
 
 
 
-How to Play
+## How to Play
 
 1️⃣ Launch the game by running the above command.
 
@@ -51,10 +51,21 @@ How to Play
 
 4️⃣ Enjoy the game and try to achieve victory using your strategic thinking and quantum intuition!
 
+
+**Game Page**
+
 ![image](https://github.com/Ruchi-here/Quantum-Tic-Tac-toe-Game/assets/122676573/301e0f1c-cfb0-45e9-a65f-363fabe9bdb3)
 
+**Instruction Page**
+
+![image](https://github.com/Ruchi-here/Quantum-Tic-Tac-toe-Game/assets/122676573/420dd431-e660-42fc-8333-598490df46ee)
+
+**About**
+
+![image](https://github.com/Ruchi-here/Quantum-Tic-Tac-toe-Game/assets/122676573/1d4bffee-3816-4fa8-a4c0-bd9c981e5ccd)
 
 
-Acknowledgments
+
+## Acknowledgments
 
 The game is inspired by the concepts of quantum computing and the famous game of Tic Tac Toe.
